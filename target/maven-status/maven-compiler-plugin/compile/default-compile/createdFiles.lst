@@ -1,0 +1,7 @@
+org/myorg/quickstart/BatchJob.class
+org/myorg/quickstart/StreamingJob$WordTokenizer.class
+org/myorg/quickstart/StreamingJob.class
+org/myorg/quickstart/StreamingJob$IntTokenizer.class
+org/myorg/quickstart/StreamingJob$LineTokenizer.class
+org/myorg/quickstart/StreamingJob$Tokenizer1.class
+org/myorg/quickstart/StreamingJob$Tokenizer.class
